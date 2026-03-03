@@ -12,7 +12,9 @@ using System.Runtime.InteropServices.Marshalling;
 using System.Runtime.Serialization;
 using System.Security.Authentication.ExtendedProtection;
 using System.Text;
-
+/* 
+This Program shows how data types and conversions work and how exceptions are handled.
+*/
 class Program {
     static void Main(string[] args) {
         Console.WriteLine("Hello, World!");
